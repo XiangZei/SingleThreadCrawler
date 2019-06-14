@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"SingleThreadCrawler/单任务爬虫1/model"
+	"SingleThreadCrawler/singleThreadCrawler/model"
 	"regexp"
 )
 

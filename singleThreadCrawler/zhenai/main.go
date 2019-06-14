@@ -1,10 +1,10 @@
 package main
 
 import (
-	"SingleThreadCrawler/单任务爬虫/engine"
-	"SingleThreadCrawler/单任务爬虫/model"
-	"SingleThreadCrawler/单任务爬虫/scheduler"
-	"SingleThreadCrawler/单任务爬虫/zhenai/parser"
+	"SingleThreadCrawler/singleThreadCrawler/engine"
+	"SingleThreadCrawler/singleThreadCrawler/model"
+	"SingleThreadCrawler/singleThreadCrawler/scheduler"
+	"SingleThreadCrawler/singleThreadCrawler/zhenai/parser"
 )
 
 type person struct {

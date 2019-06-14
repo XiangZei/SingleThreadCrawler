@@ -1,6 +1,6 @@
 package scheduler
 
-import "SingleThreadCrawler/单任务爬虫/model"
+import "SingleThreadCrawler/singleThreadCrawler/model"
 
 //调度器接口
 type Scheduler interface {

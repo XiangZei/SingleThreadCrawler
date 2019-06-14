@@ -1,9 +1,9 @@
 package engine
 
 import (
-	"SingleThreadCrawler/单任务爬虫/fetcher"
-	"SingleThreadCrawler/单任务爬虫/model"
-	"SingleThreadCrawler/单任务爬虫/scheduler"
+	"SingleThreadCrawler/singleThreadCrawler/fetcher"
+	"SingleThreadCrawler/singleThreadCrawler/model"
+	"SingleThreadCrawler/singleThreadCrawler/scheduler"
 	"log"
 )
 
